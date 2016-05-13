@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cafe del Día</string>
+    <string name="cup_question">¿Cuantas tazas de cafe desea?</string>
+    <string name="order">PEDIDO</string>
+    <string name="cups">Numero de Tazas</string>
+    <string name="detalle_compra">Detalle de Compra</string>
+    <string name="total">Total:</string>
+    <string name="pedido">Pedido:</string>
+    <string name="back">REGRESAR</string>
+</resources>
